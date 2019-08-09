@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.17">
+<file name="/vagrant/calculator/src/main/java/com/wonderweasel/calculator/Calculator.java">
+</file>
+<file name="/vagrant/calculator/src/main/java/com/wonderweasel/calculator/CalculatorApplication.java">
+</file>
+<file name="/vagrant/calculator/src/main/java/com/wonderweasel/calculator/CalculatorController.java">
+</file>
+</checkstyle>
